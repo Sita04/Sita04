@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sita Lakshmi Sangameswaran</h1>
-<h3 align="center">A caffeinated developer from India, currently compiling in Toronto, Canada.</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h3 >A caffeinated developer from India, currently compiling in Toronto, Canada.</h3>
 
 <table>
   <tr>
