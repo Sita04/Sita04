@@ -63,5 +63,5 @@ const sita = {
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sita04" alt="sita04" /></a> </p>
 
-<!--START_SECTION:dev_stats-->
-<!--END_SECTION:dev_stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
